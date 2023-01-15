@@ -1,5 +1,9 @@
 # cloudkit_unique-identifier
 
+https://stackoverflow.com/questions/21642414/icloud-unique-identifier
+
+https://stackoverflow.com/questions/69246112/cloudkit-record-id-is-not-unique
+
 ### Capability
 
 - CloudKit 
