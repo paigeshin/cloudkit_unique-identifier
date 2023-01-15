@@ -4,6 +4,8 @@ https://stackoverflow.com/questions/21642414/icloud-unique-identifier
 
 https://stackoverflow.com/questions/69246112/cloudkit-record-id-is-not-unique
 
+https://medium.com/@skreutzb/ios-onboarding-without-signup-screens-cb7a76d01d6e
+
 ### Capability
 
 - CloudKit 
